@@ -21,7 +21,7 @@ public class ActivateServlet
     private ApplicationContext context;
  
     @Override
-    public void init()
+    public void init() 
         throws ServletException
     {
         super.init();
